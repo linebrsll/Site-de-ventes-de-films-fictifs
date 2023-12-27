@@ -1,0 +1,3 @@
+# Site de vente de films fictifs
+
+Ce projet, réalisé lors d'un cours de programmation web, est un site en PHP connecté à une base de données. Il inclut des fonctionnalités telles que la création de comptes, le paiement, un forum...
